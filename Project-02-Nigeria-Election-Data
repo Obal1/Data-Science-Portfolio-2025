@@ -1,0 +1,15 @@
+# Project 02 — Nigeria Election Data Analysis
+
+## Overview
+This project explores voter turnout, demographic trends, and election results in Nigeria. The analysis aims to uncover participation patterns and predict future electoral outcomes.
+
+## Contents
+- `notebook.ipynb`
+- `data/`
+- `report.md`
+- `visuals/`
+
+## Objective
+- Analyze voter turnout across states and regions
+- Explore demographic participation (age, gender if available)
+- Visualize results and
