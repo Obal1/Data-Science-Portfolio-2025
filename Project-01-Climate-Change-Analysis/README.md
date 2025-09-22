@@ -1,4 +1,4 @@
-# Project 01 — Climate Change Analysis
+# Project 01 — Global Temperature & Climate Change
 
 
 **Short description:** Analyze global/regional climate trends and create visualizations and forecasts.
